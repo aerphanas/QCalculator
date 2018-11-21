@@ -32,3 +32,6 @@ HEADERS += \
 
 FORMS += \
         qcalculator.ui
+
+RESOURCES += \
+    icon.qrc

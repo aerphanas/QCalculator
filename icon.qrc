@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/svg">
+        <file>accessories-calculator.svg</file>
+    </qresource>
+    <qresource prefix="/screenshot">
+        <file>Screenshot from 2018-11-18 13-19-12.png</file>
+    </qresource>
+</RCC>
