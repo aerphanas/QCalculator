@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/svg">
+        <file>accessories-calculator.svg</file>
+    </qresource>
+</RCC>
