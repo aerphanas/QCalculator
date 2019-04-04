@@ -8,7 +8,7 @@
 
 Lightweight Calculator Using Qt  
 
-![Screenshot](https://gitlab.com/Kuroyasha512/QCalculator/raw/master/Screenshot%20from%202018-11-18%2013-19-12.png?inline=false)
+![Screenshot](https://gitlab.com/Kuroyasha512/QCalculator/raw/master/screenshot/Screenshot%20from%202018-11-18%2013-19-12.png?inline=false)
 
 ## License
 
