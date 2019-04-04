@@ -12,7 +12,7 @@ Lightweight Calculator Using Qt
 
 ## License
 
-This project is licensed under the GNU GPLv3 License - see the [LICENSE.md](https://gitlab.com/Kuroyasha512/keycode/blob/master/LICENSE) file for details
+This project is licensed under the GNU GPLv3 License - see the [LICENSE](https://gitlab.com/Kuroyasha512/keycode/blob/master/LICENSE) file for details
 
 ### Philosophy
 My program use Unix Philosophy :  
