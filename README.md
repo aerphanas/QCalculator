@@ -10,9 +10,9 @@ Lightweight Calculator Using Qt
 
 ![Screenshot](https://gitlab.com/Kuroyasha512/QCalculator/raw/master/screenshot/Screenshot%20from%202018-11-18%2013-19-12.png?inline=false)
 
-## License
+## **License**
 
-This project is licensed under the GNU GPLv3 License - see the [LICENSE](https://gitlab.com/Kuroyasha512/keycode/blob/master/LICENSE) file for details
+This project is licensed under [![LICENSE](https://www.gnu.org/graphics/gplv3-with-text-84x42.png)](https://gitlab.com/Kuroyasha512/QCalculator/blob/master/LICENSE) - see the [LICENSE](https://gitlab.com/Kuroyasha512/QCalculator/blob/master/LICENSE) file for details
 
 ### Philosophy
 My program use Unix Philosophy :  
