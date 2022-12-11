@@ -1,18 +1,18 @@
 # QCalculator
 
-[![Author](https://img.shields.io/badge/author-Kuroyasha512-blue.svg)](https://gitlab.com/Kuroyasha512)
-[![Source Code](https://img.shields.io/badge/source-Kuroyasha512/QCalculator-blue.svg)](https://gitlab.com/Kuroyasha512/QCalculator/tree/master/source)
-[![Software License](https://img.shields.io/badge/license-GNU_GPLv3-brightgreen.svg)](https://gitlab.com/Kuroyasha512/QCalculator#license)
-[![Status](https://img.shields.io/badge/Status-Development-red.svg)](https://gitlab.com/Kuroyasha512/QCalculator/blob/master/README.md)
+[![Author](https://img.shields.io/badge/author-aerphanas-blue.svg)](https://gitlab.com/aerphanas)
+[![Source Code](https://img.shields.io/badge/source-aerphanas/QCalculator-blue.svg)](https://gitlab.com/aerphanas/QCalculator/tree/master/source)
+[![Software License](https://img.shields.io/badge/license-GNU_GPLv3-brightgreen.svg)](https://gitlab.com/aerphanas/QCalculator#license)
+[![Status](https://img.shields.io/badge/Status-Development-red.svg)](https://gitlab.com/aerphanas/QCalculator/blob/master/README.md)
 [![os](https://img.shields.io/badge/os-GNU/Linux-red.svg)](https://www.gnu.org/gnu/linux-and-gnu.en.html)
 
 Lightweight Calculator Using Qt  
 
-![Screenshot](https://gitlab.com/Kuroyasha512/QCalculator/raw/master/screenshot/Screenshot%20from%202018-11-18%2013-19-12.png?inline=false)
+![Screenshot](https://raw.githubusercontent.com/aerphanas/QCalculator/master/screenshot/Screenshot%20from%202018-11-18%2013-19-12.png)
 
 ## **License**
 
-This project is licensed under [![LICENSE](https://www.gnu.org/graphics/gplv3-with-text-84x42.png)](https://gitlab.com/Kuroyasha512/QCalculator/blob/master/LICENSE) - see the [LICENSE](https://gitlab.com/Kuroyasha512/QCalculator/blob/master/LICENSE) file for details
+This project is licensed under [![LICENSE](https://www.gnu.org/graphics/gplv3-with-text-84x42.png)](https://gitlab.com/aerphanas/QCalculator/blob/master/LICENSE) - see the [LICENSE](https://gitlab.com/aerphanas/QCalculator/blob/master/LICENSE) file for details
 
 ### Philosophy
 My program use Unix Philosophy :  
